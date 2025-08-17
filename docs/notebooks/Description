@@ -11,4 +11,4 @@ Recent Outlier Detection Support enables unsupervised tuning with scoring=None; 
 - ROC-AUC, precision, recall, F1 metrics
 
 ### Related issue
-Addresses: Improve documentation and examples (issue #...).
+Addresses: Improve documentation and examples (issue #...)
